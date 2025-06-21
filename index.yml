@@ -2,4 +2,6 @@ packages:
   - name: json_parser
     versions:
       - "0.1"
-      - "0.2"
+  - name: dsm
+    versions:
+      - "0.1"
